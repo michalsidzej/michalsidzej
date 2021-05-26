@@ -2,8 +2,9 @@
 
 My name is Michał Sobieraj-Jakubiec, I create websites. 
 
-- 🔭 I’m currently working as a freelance, hoping to join a team to write production-grade code
+- 🔭 I’m currently working with [Rumble Fish Poland](https://www.rumblefish.dev/), developing [worldremit.com](https://www.worldremit.com/)
 - 🌱 Diving deeper into JAM stack
+- 🎓 Loving [Frontend Masters](https://frontendmasters.com/) for providing amazing educational content.
 
 <h3 align="left">🔧 Technologies & Tools</h3>
 <div align="left">
