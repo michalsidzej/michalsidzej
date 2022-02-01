@@ -5,7 +5,6 @@ My name is Michał Sobieraj-Jakubiec, I like kayaking, but mostly i code stuff.
 - 🔭 I’m currently working with [Rumble Fish Poland](https://www.rumblefish.dev/)
 - 💸 Diving deeper into decentralised world
 - 🌱 JAM stack enthusiast
-- 🎓 Loving [Frontend Masters](https://frontendmasters.com/) for providing amazing educational content.
 
 <h3 align="left">🔧 Technologies & Tools</h3>
 <div align="left">
