@@ -2,7 +2,7 @@
 
 My name is Michał Sobieraj-Jakubiec, I like kayaking, but mostly i code stuff. 
 
-- 🔭 I’m currently working with [Rumble Fish Poland](https://www.rumblefish.dev/)
+- 🔭 I’m currently working for [L2Beat](https://www.l2beat.com/)
 - 💸 Diving deeper into decentralised world
 - 🌱 JAM stack enthusiast
 
